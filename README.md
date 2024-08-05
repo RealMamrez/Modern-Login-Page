@@ -4,7 +4,7 @@ Modern **Login WebPage** for using on your website.
 
 # Screen Shots!
 
-![ُScreenshot of todolist app](https://i.ibb.co/qdTv8Nm/Untitled-Project.gif)
+![ُScreenshot of todolist app](./Project.gif)
 
 ## Run
 
